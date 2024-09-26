@@ -3,7 +3,7 @@
 - 👀 I’m interested in running, cooking, and video games
 - 🌱 I’m currently learning various computer programming skills 
 - 💞️ I’m looking to collaborate on software development projects :)
-- 📫 You can rech me at janndenzellromero@gmail.com
+- 📫 You can reach me at janndenzellromero@gmail.com
 
 
 <!---
