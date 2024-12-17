@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jann Romero
 - 🎒 I'm studying Computer Science @ Ontario Tech University
 - 👀 I’m interested in running, cooking, and video games
-- 🌱 I’m currently html, css, javascript 
+- 🌱 I’m currently learning html, css, javascript 
 - 💞️ I’m looking to collaborate on software development projects :)
 - 📫 You can reach me at janndenzellromero@gmail.com
 
